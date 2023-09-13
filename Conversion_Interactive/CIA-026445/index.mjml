@@ -1,0 +1,112 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline">
+            .relay {
+                color: black !important;
+            }
+
+            ul {
+                padding-left: 1.2em;
+            }
+
+            h3 {
+                color: #0071DC;
+            }
+
+            h2 {
+                color: #ffffff;
+                display: inline;
+            }
+
+            .learnMore {
+                font-weight: bold;
+            }
+
+
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#C9C9C9">
+        <mj-wrapper background-color="#fff" border-width="1px" border-color="#000000" border-style="solid" padding="0px" >
+            <mj-wrapper background-url="./assets/background@2x.png" background-size="cover">
+                <mj-section padding-bottom="20px">
+                    <mj-column>
+                        <mj-image width="400px" padding-bottom="10px" padding-top="10px" padding-left="0px"
+                                  padding-right="0px" src="./assets/Hiring_Vets_Summit_Logo.png" alt=""></mj-image>
+                    </mj-column>
+                </mj-section>
+
+                <mj-section padding="0px">
+                    <mj-column>
+                        <mj-text align="center" padding-left="40px" padding-top="0" padding-bottom="5px"
+                                 font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                            <h1 style="color: #16193E; line-height:120%; font-size: 18pt; font-weight: 700">BUILD &
+                                IMPROVE
+                                YOUR VETERAN HIRING PROGRAM IN THE TRUCKING INDUSTRY
+                            </h1>
+                            <h2 style="color: #16193E; line-height:120%; font-weight: normal; font-size: 14pt;">FEBRUARY
+                                2-4, 2022 RENAISSANCE NEW ORLEANS ARTS WAREHOUSE DISTRICT HOTEL
+                            </h2>
+                            <p style="color: #16193E; line-height:120%; padding-bottom: 20px; font-size: 12pt;">700
+                                TCHOUPITOULAS ST, NEW ORLEANS, LA 70130
+                            </p>
+                            <h2 style="color: #777778; text-align: center; font-weight: 600;">HOSTED BY</h2>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+                <mj-section padding="0px">
+                    <mj-column>
+                        <mj-text align="center" padding-left="40px" padding-top="0" padding-bottom="5px"
+                                 font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                            <h1 style="border-bottom: solid 3px #777778"></h1>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+                <mj-section padding="0px">
+                    <mj-column>
+                        <mj-image width="400px" padding-bottom="10px" padding-top="10px" padding-left="0px"
+                                  padding-right="0px" src="./assets/Group 16.png" alt=""></mj-image>
+                    </mj-column>
+                </mj-section>
+                <mj-section padding="0px">
+                    <mj-column>
+                        <mj-text padding-left="40px" padding-top="0" padding-bottom="5px"
+                                 font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                            <p style="color: #16193E; text-align: center;">The Hiring Veterans Summit offers incredible
+                                opportunities for driver recruiting and retention professionals to learn how to build or
+                                improve your Veteran hiring program in the trucking industry. The lineup of speakers and
+                                content is focused on providing driver recruiting leaders with tools, resources,
+                                strategy
+                                and information to help you successfully hire Veterans in today’s trucking industry.
+                            </p>
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+            </mj-wrapper>
+            <mj-section background-url="./assets/button_combine.png"
+                        background-size="60%"
+                        background-repeat="no-repeat"
+                        padding-bottom="50px"
+            >
+                <mj-column>
+                    <mj-text padding-left="60px" padding-top="0" align="center">
+                        <a href="https://www.conversionia.com/hiringveteranssummit/">
+                            <div style="width: 350px; height: 100px; margin: 0 65px"></div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#16193E" padding-top="0" padding-bottom="0">
+                <mj-column background-color="#fff" width="50%">
+                    <mj-image width="200px" padding-bottom="5px" padding-top="0px" padding-left="0px"
+                              padding-right="0px"
+                              src="./assets/Group 16.png" alt=""></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#fff" padding-bottom="0">
+            </mj-section>
+            <mj-section background-color="#D03238" padding-bottom="0">
+            </mj-section>
+        </mj-wrapper>
+
+    </mj-body>
+</mjml>

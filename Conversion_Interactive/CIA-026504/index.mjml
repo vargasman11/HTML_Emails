@@ -1,0 +1,271 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline"></mj-style>
+    </mj-head>
+    <mj-body background-color="#B6B6B6">
+        <mj-wrapper background-color="#fff" border-width="1px" border-color="#000000" border-style="solid"
+                    padding="0px">
+            <mj-section padding="0px">
+                <mj-column background-color="#000">
+                    <mj-text color="white"
+                    >
+                        <h2 style="text-align: center">
+                            THE MUST ATTEND EVENT FOR DRIVER RECRUITING & RETENTION
+                            PROFESSIONALS
+                        </h2>
+                    </mj-text
+                    >
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#FFFFFF">
+                    <mj-image
+                            padding-bottom="0px"
+                            padding-top="0px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            src="./assets/RR2021_Eblast_Header.jpg"
+                            alt=""
+                    ></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#ffffff">
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="5px"
+                            font-family="Helvetica,Arial,sans-serif"
+                            font-size="16px"
+                            line-height="150%"
+                    >
+                        <h2 style="color: #da1923; text-align: center">
+                            ALMOST SOLD OUT!
+                        </h2>
+                        <h3 style="color: #60666d; text-align: center">November 7-9, 2021</h3>
+                        <h3 style="color: #60666d; text-align: center">
+                            Renaissance Hotel Nashville
+                        </h3>
+                    </mj-text>
+                    <mj-text align="left">
+                        <p style="font-size: 14pt; color: #60666d; font-family: roboto; line-height: 1.5;">
+                            The 2021 Recruitment and Retention Conference is the must-attend event for driver recruiting
+                            and
+                            retention professionals in the transportation industry. Benchmark and network with industry
+                            leaders, while learning about the latest strategies and innovations to help you reach your
+                            driver recruiting and retention goals. This year’s lineup of speakers and content is focused
+                            on
+                            how we can better recruit and retain drivers both today and in the future as we explore what
+                            is
+                            next for our industry.
+                        </p>
+                        <p style="font-size: 14pt; color: #60666d; font-family: roboto; line-height: 1.5;">
+                            Hear from industry experts on topics including:
+                        </p>
+                        <ul style="font-size: 14pt; color: #60666d; font-family: roboto; line-height: 1.5;">
+                            <li>Driver Pay Trends</li>
+                            <li>Driver Retention & Market Data</li>
+                            <li>Social Media Recruiting</li>
+                            <li>Hiring Post-Military Drivers</li>
+                            <li>… AND MANY MORE!</li>
+
+
+                        </ul>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column background-color="#ffffff">
+                    <mj-text align="center" container-background-color="#DA1923">
+                        <h1 style="color: #fff; text-decoration: underline">
+                            <a href="https://web.cvent.com/event/688865f2-820d-4ef5-94b3-08d6de2412a2/summary"
+                               target="_blank" style="color: white; text-decoration: normal;">REGISTER TODAY
+                            </a>
+                        </h1>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-bottom="0px"
+                        padding-top="0px"
+                        padding-left="0px"
+                        padding-right="0px">
+                <mj-column background-color="#ffffff" padding-bottom="0px"
+                           padding-top="0px"
+                           padding-left="0px"
+                           padding-right="0px">
+                    <mj-text
+                            align=center
+                            padding-bottom="0px"
+                            padding-top="0px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            font-family="Helvetica,Arial,sans-serif"
+                            font-size="14px"
+                            line-height="150%"
+                    >
+                        <h2 style="color: #da1923; text-align: center">Sponsors</h2>
+                        <h4 style="padding-bottom: 0px; margin: 0; text-align: left;">DIAMOND SPONSORS</h4>
+                        <hr/>
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/cdl_life.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/dmt.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/fatj.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/hire_master.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/truckers_report.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/truck_right.png"
+                        />
+                    </mj-text>
+                    <mj-text
+                            align=center
+                            padding-bottom="0px"
+                            padding-top="0px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            font-family="Helvetica,Arial,sans-serif"
+                            font-size="14px"
+                            line-height="150%"
+                    >
+                        <h4 style="padding-bottom: 0px; margin: 0; text-align: left;">GOLD SPONSORS</h4>
+                        <hr/>
+                    </mj-text>
+                    <mj-image width="150px" src="./assets/driver_reach.png"/>
+
+                    <mj-text
+                            align=center
+                            padding-bottom="0px"
+                            padding-top="0px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            font-family="Helvetica,Arial,sans-serif"
+                            font-size="14px"
+                            line-height="150%"
+                    >
+                        <h4 style="padding-bottom: 0px; margin: 0; text-align: left;">SILVER SPONSORS</h4>
+                        <hr/>
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/adn.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/asurint.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/career_now.png"
+                        />
+
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/driver_iq.png"
+                        />
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/ebe.png"
+                        />
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/hire_right.png"
+                        />
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/jit.png"
+                        />
+
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/luma.png"
+                        />
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/pda.png"
+                        />
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/randall_reilly.png"
+                        />
+                        <img
+                                style="width: 100px; margin: 10px 10px"
+                                src="./assets/rocket_cdl.png"
+                        />
+
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/sirius.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/talent.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/ten_street.png"
+                        />
+
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/tdj.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/tdu.png"
+                        />
+                        <img
+                                style="width: 150px; margin: 10px 10px"
+                                src="./assets/eps.png"
+                        />
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0px" padding-bottom="0px" background-color="#000">
+                <mj-column
+                        padding-bottom="0px"
+                        padding-top="0px"
+                        padding-left="0px"
+                        padding-right="0px"
+                >
+                    <mj-image width="150px" src="./assets/conversion_U_logo-white.png"/>
+                    <mj-text
+                            align="center"
+                            padding-bottom="0px"
+                            padding-top="0px"
+                            padding-left="0px"
+                            padding-right="0px"
+                    >
+                        <h4 style="color: white">
+                            <a
+                                    href="tel:+8002642690"
+                                    style="color: white; text-decoration: underline"
+                            >800-264-2690
+                            </a
+                            >
+                             |  
+                            <a
+                                    style="color: white; text-decoration: underline"
+                                    href="https://www.conversionia.com/"
+                            >CONVERSIONIA.COM
+                            </a
+                            >
+                        </h4>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

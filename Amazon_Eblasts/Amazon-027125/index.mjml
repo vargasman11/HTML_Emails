@@ -1,0 +1,89 @@
+<mjml>
+  <mj-head>
+     <mj-style inline="inline">
+      .relay {
+        color: black !important;
+      }
+      ul{
+        padding-left: 1.2em;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#FFF">
+    <mj-section padding="0px">
+      <mj-column background-color="#FFFFFF">
+        <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="./assets/Amazon_2021_Halloween_EblastHeader.jpg"  alt=""></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column  background-color="#eff0f0">
+        <mj-text padding-left="40px" padding-top="0" padding-bottom="5px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+        <h3>Here’s how it works:</h3>
+        <ul>
+        <li>
+        	Carriers have an opportunity to enter the sweepstakes daily 
+        </li>
+        <li>
+        There will be 5 winners drawn per day between 10/24/2021 and 10/30/2021 
+        </li>
+        <li>
+        	To be entered for the daily drawing carriers must <strong>complete at least one load</strong> that was booked using <strong>Relay Load Board’s Post A Truck,</strong> or enter without completing a trip by following the steps outlined below
+        </li>
+        <li>
+        	5 winners of a <strong>$400 Amazon.com gift card</strong> will be drawn daily – one winner per carrier
+        </li>
+        <li>
+        	If your company is one of the 5 daily winners, you'll be notified as a winner through the primary administrators email* registered in Amazon Relay 
+
+        </li>
+        </ul>
+        <p style="font-size: 9pt">*Please review or update your company’s Relay account information before the promotion period begins</p>
+        </mj-text>
+          <mj-button font-family="Helvetica" background-color="#ff9900" color="black">
+          <strong><a href="https://www.amazon.com/ap/signin?openid.pape.max_auth_age=86400&openid.return_to=https%3A%2F%2Frelay.amazon.com%2Floadboard%2Forders&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_relay_desktop_us&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_relay_desktop_us&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0">POST YOUR TRUCK</a></strong>
+         </mj-button>
+          <mj-text>
+          <p align = center>
+          NO PURCHASE OR PAYMENT NECESSARY TO ENTER OR WIN.  Open to legal residents of 50 United States and D.C. who are at least age 18 and a primary administrator of an authorized motorized carrier signed up and accepted into the Amazon Relay program (via www.relay.amazon.com) at the time of entry. Must have completed a trip 30 days before the Sweepstakes Period. “Sweepstakes Period” for each daily sweepstakes is from 12:00:01am through 11:59:59pm PT on each day from 10/24/21 to 10/30/21. To enter: during the Sweepstakes Period, either: (1) complete a trip using Amazon Relay Post A Truck feature; or (2) send an email to relaycommunication@amazon.com with subject line “Amazon Relay No Tricks, Just Treats Sweepstakes” with your name, address, USDOT Number, e-mail address associated with your relay.amazon.com account, and phone number in email body. For each daily sweepstakes (7 total), 5 winners will be selected at random to each win one $400 Amazon.com e-gift card. Odds of winning depend on number of eligible entries. Sweepstakes subject to Official Rules. Details and restrictions apply, so visit <a href="https://d3gefe8pnkczmm.cloudfront.net/AmazonRelayTruck-or-TreatSweepstakesOfficialRules.pdf">Relay</a> for Official Rules. Sponsor: Amazon Logistics, Inc., 410 Terry Avenue North, Seattle, WA 98109.  
+          </p>
+        </mj-text>
+          
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column background-color="#002e36" padding-top="0px" padding-bottom="0px">
+        <mj-text color="white" align=center padding-top="0px" padding-bottom="0px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%"><h2 padding-top="0px" padding-bottom="0px">Once your load is completed using Post a Truck, you’re automatically entered for a chance to win!</h2></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column background-color="#00a8e1">
+             <mj-text color="white" padding-left="40px" padding-top="0" padding-bottom="10px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+        <h3>What is Amazon’s Post A Truck? </h3>
+        <ul padding-left="0px">
+        <li>
+      	Your company can post available empty capacity by specifying details such as when and where trucks are available, one-way/round-trip, and a minimum payout.   
+        </li>
+        <li>
+   The Post A Truck page has new filtering capabilities that allow your company to set the maximum number of stops, exclude cities from your Post A Truck availability, and for One-Ways you can select multiple destination cities or regions (i.e., Northeast).
+        </li>
+        <li>
+        If a Trip on Relay Load Board matches the availability your company posted and has a payout equal to or higher than the minimum payout that was entered, Amazon can automatically book the freight for your company. 
+        </li>
+        </ul>
+    
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+        <mj-section padding="0px">
+      <mj-column background-color="#002e36">
+        <mj-text color="white" align=center padding-top="5px" padding-bottom="5px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%"><h2>Thank you for booking loads with Amazon Relay!</h2></mj-text>
+      </mj-column>
+    </mj-section>
+  
+    <mj-section padding-top="3px">
+ <mj-column background-color="#002e36">
+        <mj-image width="100px" src="./assets/Vector Smart Object.png"  alt=""></mj-image>
+      </mj-column>
+  </mj-body>
+</mjml>

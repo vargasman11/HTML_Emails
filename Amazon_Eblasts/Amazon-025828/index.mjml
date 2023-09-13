@@ -1,0 +1,120 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline">
+            .relay {
+                color: black !important;
+            }
+
+            ul {
+                padding-left: 1.2em;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#FFF">
+            <mj-section padding="0px">
+                <mj-column background-color="#FFFFFF">
+                    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px"
+                              src="./assets/Amazon_2021June_EblastHeader_PAT.jpg" alt=""></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#eff0f0">
+                    <mj-text padding-left="40px" padding-top="0" padding-bottom="5px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">
+                        <h3>Here’s how it works:</h3>
+                        <ul>
+                            <li>
+                                Carriers have an opportunity to enter the sweepstakes daily
+                            </li>
+                            <li>
+                                There will be 20 winners drawn per day between 06/21/2021 and 06/27/2021
+                            </li>
+                            <li>
+                                To be entered for the daily drawing carriers must <strong>complete at least one load
+                            </strong> that was booked using <strong>Relay Load Board’s Post A Truck,</strong> any day
+                                between 06/21/2021 to 06/27/2021
+                            </li>
+                            <li>
+                                20 winners of a <strong>$200 Amazon.com gift card</strong> will be drawn daily – one
+                                winner
+                                per
+                            </li>
+                            <li>
+                                If your company is one of the 20 daily winners, you'll be notified as a winner through
+                                the
+                                primary administrators email* registered in Amazon Relay
+
+                            </li>
+                        </ul>
+                        <p>*Please review or update your company’s Relay account information before the promotion period
+                            begins
+                        </p>
+                    </mj-text>
+                    <mj-button font-family="Helvetica" background-color="#ff9900" color="black">
+                        <strong>POST YOUR TRUCK</strong>
+                    </mj-button>
+                    <mj-text>
+                        <p align=center>
+                            NO PURCHASE NECESSARY. See rules for each day’s sweepstakes located on <a class="relay"
+                                                                                                      href="https://relay.amazon.com/">
+                            relay.amazon.com
+                        </a> for alternate method of entry.
+                        </p>
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0px" padding-bottom="0px">
+                <mj-column background-color="#002e36" padding-top="0px" padding-bottom="0px">
+                    <mj-text color="white" align=center padding-top="0px" padding-bottom="0px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                        <h2 padding-top="0px" padding-bottom="0px">Once your load is completed, you’re automatically
+                            entered
+                            for a chance to win!
+                        </h2>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#00a8e1">
+                    <mj-text color="white" padding-left="40px" padding-top="0" padding-bottom="10px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">
+                        <h3>What is Amazon’s Post A Truck?</h3>
+                        <ul padding-left="0px">
+                            <li>
+                                Your company can post available empty capacity by specifying details such as when and
+                                where
+                                trucks are available, one-way/round-trip, and a minimum payout.
+                            </li>
+                            <li>
+                                The Post A Truck page has new filtering capabilities that allows your company to set the
+                                maximum number of stops, exclude cities from your Post A Truck availability, and for
+                                one-ways you can select multiple destination cities or regions (i.e., Northeast).
+                            </li>
+                            <li>
+                                If a Trip on Relay Load Board matches the availability your company posted and has a
+                                payout
+                                equal to or higher than the minimum payout that was entered, Amazon can automatically
+                                book
+                                the freight for your company.
+                            </li>
+                        </ul>
+
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#002e36">
+                    <mj-text color="white" align=center padding-top="5px" padding-bottom="5px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">
+                        <h2>Thank you for booking loads with Amazon Relay!</h2>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="3px">
+                <mj-column background-color="#002e36">
+                    <mj-image width="100px" src="./assets/Vector Smart Object.png" alt=""></mj-image>
+                </mj-column>
+            </mj-section>
+    </mj-body>
+</mjml>

@@ -1,0 +1,275 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline"></mj-style>
+    </mj-head>
+    <mj-body background-color="#B7B7B7">
+        <mj-wrapper background-color="#fff" border-width="1px" border-color="#000000" border-style="solid"
+                    padding="0px">
+            <mj-section padding="0px">
+                <mj-column background-color="#000">
+                    <mj-text color="white">
+                        <h2 style="text-align: center">
+                            THE MUST ATTEND EVENT FOR DRIVER RECRUITING & RETENTION
+                            PROFESSIONALS
+                        </h2>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#FFFFFF">
+                    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px"
+                              src="./assets/RR2021_Eblast_Header.jpg" alt=""></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#ffffff">
+                    <mj-text padding-left="40px" padding-top="0" padding-bottom="5px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                        <h2 style="color: #da1923; text-align: center">
+                            2021 Recruitment & Retention Conference:
+                        </h2>
+                        <h3 style="color: #60666d; text-align: center">November 7-9, 2021</h3>
+                        <h3 style="color: #60666d; text-align: center">
+                            Renaissance Hotel Nashville
+                        </h3>
+                    </mj-text>
+                    <mj-text align="center" container-background-color="#DA1923">
+                        <h2 style="color: #fff;">
+                            REGISTRATION IS FILLING UP FAST FOR R&R 2021!
+                        </h2>
+                        <p style="font-size: 12pt; color: #fff; font-weight: bold;">
+                            (Last year we sold out, so register today to reserve your spot!)
+                        </p>
+                    </mj-text>
+                    <mj-text align="left">
+                        <p style="font-size: 14pt;">
+                            The 18th Annual Recruitment and Retention Conference offers
+                            incredible opportunities for driver recruiting and retention
+                            professionals to benchmark, network, and learn from other industry
+                            leaders. This year’s lineup of speakers and content is focused on
+                            what is next for recruiting and retention in this ever-changing and
+                            challenging industry. The conference provides insight for you and
+                            your team to learn about the latest innovations, strategies and
+                            tools to help you face the challenges of recruiting and retaining
+                            drivers in today’s demanding market. Make plans to attend today!
+                        </p>
+                        <p style="font-size: 14pt;">
+                            Here’s just a few of the general sessions that will equip your team
+                            for driver recruiting and retention success.
+                        </p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <!-- 1st row -->
+            <mj-section padding-top="0px" padding-bottom="0px" padding-left="25px" padding-right="25px">
+                <mj-column width="66%" background-color="#fff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px" vertical-align="middle">
+                    <mj-text align="left" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px">
+                        <h4 style="margin: 0;">
+                            Mastering Digital Leadership for What's Next in Driver Recruiting &
+                            Retention
+                        </h4>
+                        <p>Speaker: Erik Qualman, Author & Nationally Renowned Speaker</p>
+                    </mj-text>
+                </mj-column>
+                <mj-column width="33%" background-color="#fff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px" vertical-align="middle">
+                    <!--        <mj-image width="150px" padding-left="0px" padding-right="0px" padding-top="0px" align=right src="/assets/Picture1.jpg" />-->
+                    <mj-image width="150px" padding-left="0px" padding-right="0px" padding-top="0px" align=right
+                              src="./assets/Picture1.jpg"/>
+                </mj-column>
+            </mj-section>
+            <!-- 2nd row -->
+            <mj-section padding-top="0px" padding-bottom="0px" padding-left="25px" padding-right="25px">
+                <mj-column width="66%" background-color="#fff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px" vertical-align="middle">
+                    <mj-text align="left" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px">
+                        <h4 style="margin: 0;">
+                            Mentorship vs Management: Improving Driver Retention with a Shift in
+                            How You View & Treat Drivers
+                        </h4>
+                        <p>Speaker: Clint Pulver, Author & Nationally Renowned Speaker</p>
+                    </mj-text>
+                </mj-column>
+                <mj-column width="33%" background-color="#fff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px" vertical-align="middle">
+                    <mj-image width="150px" padding-left="0px" padding-right="0px" padding-top="0px" align=right
+                              src="./assets/Picture2.jpg"/>
+                </mj-column>
+            </mj-section>
+            <!-- 3rd row -->
+            <mj-section padding-top="0px" padding-bottom="0px" padding-left="25px" padding-right="25px">
+                <mj-column width="66%" background-color="#fff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px" vertical-align="middle">
+                    <mj-text align="left" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px">
+                        <h4 style="margin: 0;">Recruiting & Retention Networking Roundtable</h4>
+                        <p>
+                            Networking and benchmarking with other carriers and industry
+                            providers on today’s hottest topics
+                        </p>
+                    </mj-text>
+                </mj-column>
+                <mj-column width="33%" background-color="#fff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px" vertical-align="middle">
+                    <mj-image width="150px" padding-left="0px" padding-right="0px" padding-top="0px" align=right
+                              src="./assets/Picture3.jpg"/>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column background-color="#ffffff">
+                    <mj-text align="center" container-background-color="#DA1923">
+                        <h1 style="color: #fff; text-decoration: underline">
+                            <a href="https://web.cvent.com/event/688865f2-820d-4ef5-94b3-08d6de2412a2/summary"
+                               target="_blank" style="color: white; text-decoration: normal;">CLICK HERE TO REGISTER
+                                TODAY
+                            </a>
+                        </h1>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <!-- Sponsors -->
+            <!-- DIAMOND SPONSORS HEADER -->
+            <mj-section padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px">
+                <mj-column background-color="#ffffff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px">
+                    <mj-text align=center padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                        <h2 style="color: #da1923; text-align: center">Sponsors</h2>
+                        <h4 style="padding-bottom: 0px; margin: 0; text-align: left;">DIAMOND SPONSORS</h4>
+                        <hr/>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <!-- DIAMOND SPONSORS ROW 1 -->
+            <mj-section>
+                <mj-column width="33%">
+                    <mj-image src="./assets/cdl_life.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/dmt.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/fatj.png"/>
+                </mj-column>
+            </mj-section>
+            <!-- DIAMOND SPONSORS ROW 2 -->
+            <mj-section>
+                <mj-column width="33%">
+                    <!--        <mj-image src="../assets/hire_master.png" />-->
+                    <mj-image src="./assets/hire_master.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/truckers_report.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/truck_right.png"/>
+                </mj-column>
+            </mj-section>
+            <!-- GOLD SPONSORS -->
+            <mj-section padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px">
+                <mj-column background-color="#ffffff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px">
+                    <mj-text align=center padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                        <h4 style="padding-bottom: 0px; margin: 0; text-align: left;">GOLD SPONSORS</h4>
+                        <hr/>
+                    </mj-text>
+                    <mj-image width="150px" src="./assets/driver_reach.png"/>
+                </mj-column>
+            </mj-section>
+            <!-- SILVER SPONSORS -->
+            <mj-section padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px">
+                <mj-column background-color="#ffffff" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                           padding-right="0px">
+                    <mj-text align=center padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px"
+                             font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="150%">
+                        <h4 style="padding-bottom: 0px; margin: 0; text-align: left;">SILVER SPONSORS</h4>
+                        <hr/>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <!-- SILVER SPONSORS Row 1 -->
+            <mj-section>
+                <mj-column width="33%">
+                    <mj-image src="./assets/adn.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/asurint.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/career_now.png"/>
+                </mj-column>
+            </mj-section>
+            <!-- SILVER SPONSORS Row 2 -->
+            <mj-section>
+                <mj-column width="25%">
+                    <mj-image src="./assets/driver_iq.png"/>
+                </mj-column>
+                <mj-column width="25%">
+                    <mj-image src="./assets/ebe.png"/>
+                </mj-column>
+                <mj-column width="25%">
+                    <mj-image src="./assets/hire_right.png"/>
+                </mj-column>
+                <mj-column width="25%">
+                    <mj-image src="./assets/jit.png"/>
+                </mj-column>
+            </mj-section>
+            <!-- SILVER SPONSORS Row 3 -->
+            <mj-section>
+                <mj-column width="25%">
+                    <mj-image src="./assets/luma.png"/>
+                </mj-column>
+                <mj-column width="25%">
+                    <mj-image src="./assets/pda.png"/>
+                </mj-column>
+                <mj-column width="25%">
+                    <mj-image src="./assets/randall_reilly.png"/>
+                </mj-column>
+                <mj-column width="25%">
+                    <mj-image src="./assets/rocket_cdl.png"/>
+                </mj-column>
+            </mj-section>
+            <!-- SILVER SPONSORS Row 4 -->
+            <mj-section>
+                <mj-column width="33%">
+                    <mj-image src="./assets/sirius.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/talent.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/ten_street.png"/>
+                </mj-column>
+            </mj-section>
+            <!-- SILVER SPONSORS Row 5 -->
+            <mj-section>
+                <mj-column width="33%">
+                    <mj-image src="./assets/tdj.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/tdu.png"/>
+                </mj-column>
+                <mj-column width="33%">
+                    <mj-image src="./assets/eps.png"/>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0px" padding-bottom="0px" background-color="#000">
+                <mj-column padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px">
+                    <mj-image width="150px" src="./assets/conversion_U_logo-white.png"/>
+                    <mj-text align="center" padding-bottom="0px" padding-top="0px" padding-left="0px"
+                             padding-right="0px">
+                        <h4 style="color: white">
+                            <a href="tel:+8002642690" style="color: white; text-decoration: underline">800-264-2690
+                            </a>
+                             |  
+                            <a style="color: white; text-decoration: underline" href="https://www.conversionia.com/">
+                                CONVERSIONIA.COM
+                            </a>
+                        </h4>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

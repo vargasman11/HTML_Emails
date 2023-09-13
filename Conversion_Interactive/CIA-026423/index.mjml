@@ -1,0 +1,287 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline"></mj-style>
+    </mj-head>
+    <mj-body background-color="#B4B4B4" padding-bottom="0px">
+        <mj-wrapper background-color="#fff" border-width="1px" border-color="#000000" border-style="solid"
+                    padding="0px">
+            <mj-section padding="0px">
+                <mj-column background-color="#000">
+                    <mj-image
+                            padding-bottom="10px"
+                            padding-top="10px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            width="30px"
+                            src="./assets/conversion_arrow_1797_600x800.png"
+                            alt=""
+                    ></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#FFFFFF">
+                    <mj-image
+                            padding-bottom="0px"
+                            padding-top="0px"
+                            padding-left="0px"
+                            width="600px"
+                            padding-right="0px"
+                            src="./assets/CIA_EblastHeader_Insider@2x.png"
+                            alt=""
+                    ></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#ffffff">
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="5px"
+                            font-family="Roboto"
+                            font-size="16px"
+                            line-height="120%"
+                            font-weight="bold"
+                    >
+                        <h2 style="color: #da1923; text-align: center">
+                            Driver Market Update
+                        </h2>
+                        <p style="color: #000; text-align: left">
+                            Hiring drivers in today’s market is extremely challenging for carriers of all sizes.
+                            Conversion
+                            Interactive Agency is committed to regularly sharing with you the trends, information and
+                            data
+                            we are collecting that impacts you and your carrier.
+                        </p>
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column>
+                    <mj-image
+                            padding-bottom="10px"
+                            padding-top="10px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            width="500px"
+                            src="./assets/video.png"
+                            alt=""
+                            href="https://www.conversionia.com/conversion-insider"
+                    ></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-bottom="0px">
+                <mj-column background-color="#d03138">
+                    <mj-image
+                            padding-bottom="10px"
+                            padding-top="10px"
+                            padding-left="0px"
+                            width="100px"
+                            padding-right="0px"
+                            src="./assets/Erin_Young_Medium.png"
+                            alt=""
+                    ></mj-image>
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="5px"
+                            font-family="Roboto"
+                            font-size="16px"
+                            line-height="150%"
+                    >
+                        <h2 style="color: #fff; text-align: center; padding: 0; margin: 0;">
+                            Listen Up!
+                        </h2>
+                        <p style="color: #fff; text-align: center; font-style: italic; padding; 0; margin: 0;">
+                            from the desk of Erin Young
+                        </p>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0px" padding-bottom="20px">
+                <mj-group background-color="#d03138">
+                    <mj-column padding-top="10px" padding-bottom="20px" padding-right="5px">
+                        <mj-image width="200px" padding="0" align="right" src="./assets/Picture1.png"/>
+                    </mj-column>
+                    <mj-column padding-top="0px" padding-bottom="20px">
+                        <mj-text align="left" color="#fff" padding-top="0px">
+                            <p style="padding: 0px;">Are you targeting post-military drivers for your fleet? If so,
+                                here’s
+                                an opportunity you don’t want to miss. Show off your fleet’s patriotism with Veterans in
+                                Trucking’s partnership program, which features a truck wrap, promotional video and press
+                                coverage. This is great exposure for your carrier! If you’re interested in this
+                                opportunity,
+                                reach out to your account executive today!
+                            </p>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section padding="0px">
+                <mj-column background-color="#ffffff">
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="5px"
+                            font-family="Roboto"
+                            font-size="16px"
+                            line-height="120%"
+                            font-weight="bold"
+                    >
+                        <h2 style="color: #da1923; text-align: center;">
+                            Don’t Miss Out
+                        </h2>
+                        <p style="color: #000; text-align: center; padding: 0;">
+                            opportunities for you & your team to network & learn
+                        </p>
+                    </mj-text>
+
+                    <mj-image width="500px" padding="0" src="./assets/RR2021_Eblast_Header.png"/>
+
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="5px"
+                            font-family="Roboto"
+                            font-size="16px"
+                            line-height="120%"
+                            font-weight="bold"
+                    >
+                        <p style="color: #000; text-align: center; padding: 0;">
+                            Don’t forget to register for R&R 2021. We are selling out fast.
+                        </p>
+                    </mj-text>
+                    <mj-image width="125px" align="center"
+                              href="https://web.cvent.com/event/688865f2-820d-4ef5-94b3-08d6de2412a2/summary"
+                              padding="0"
+                              src="./assets/register_btn.png"/>
+
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="50px">
+                <mj-column background-color="#ffffff">
+
+
+                    <mj-image width="500px" padding="0" src="./assets/FullAccess_Graphic_2.png"/>
+
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="5px"
+                            font-family="Roboto"
+                            font-size="16px"
+                            line-height="120%"
+                            font-weight="bold"
+                    >
+                        <p style="color: #000; text-align: center; padding: 0;">
+                            Remember to sign up for our next webinar: How Online Search Works: What Carriers Need to
+                            Know
+                            September 28, 2021 10am CST
+                        </p>
+
+                    </mj-text>
+                    <mj-image width="125px" align="center"
+                              href="https://us06web.zoom.us/webinar/register/WN_xDhkMBF_SZWfp6bFA0mWug" padding="0"
+                              src="./assets/register_btn.png"/>
+
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="50px">
+                <mj-column background-color="#ffffff">
+                    <mj-image width="500px" padding="0" src="./assets/FullAccess_Graphic@2x_1.png"/>
+
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="5px"
+                            font-family="Roboto"
+                            font-size="16px"
+                            line-height="120%"
+                            font-weight="bold"
+                    >
+                        <p style="color: #000; text-align: center; padding: 0;">
+                            Have you registered for the Hiring Veterans Summit? Gain tools, resources, strategy and
+                            information to help you successfully hire veterans in today’s trucking industry.
+                        </p>
+                    </mj-text>
+                    <mj-image width="125px" align="center"
+                              href="https://web.cvent.com/event/5cd68240-83cb-43d0-b035-f895fb863a70/summary"
+                              padding="0"
+                              src="./assets/register_btn.png"/>
+
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="50px">
+                <mj-column background-color="#ffffff">
+
+                    <mj-image width="500px" padding="0" src="./assets/FullAccess_Graphic.png"/>
+
+                    <mj-text
+                            padding-left="40px"
+                            padding-top="0"
+                            padding-bottom="0px"
+                            font-family="Roboto"
+                            font-size="16px"
+                            line-height="120%"
+                            font-weight="bold"
+                            vertical-align="middle"
+                    >
+                        <p style="color: #000; text-align: center; padding: 0;">
+                            Join our Conversion Client Facebook Group – Behind the Arrow. Stay up-to-date on all of the
+                            latest driver recruiting and retention info.
+
+                        </p>
+                    </mj-text>
+                    <mj-image width="125px" align="center" href="https://www.conversionia.com/conversion-insider"
+                              padding="0" src="./assets/join_btn.png"/>
+
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="20px" padding-left="0px" padding-right="0px" padding-bottom="0px">
+                <mj-group background-color="#000">
+                    <mj-column width="60%" padding-top="10px" padding-bottom="20px" vertical-align="middle">
+                        <mj-image width="200px" href="https://www.conversionia.com/" src="./assets/Group 14.png"/>
+                    </mj-column>
+                    <mj-column width="5%" padding-top="10px" padding-bottom="20px" padding-left="5px"
+                               padding-right="5px"
+                               vertical-align="middle">
+                        <mj-image padding="0" width="30px"
+                                  href="https://www.linkedin.com/company/conversion-interactive-agency/"
+                                  src="./assets/linkedin.png"/>
+                    </mj-column>
+                    <mj-column vertical-align="middle" width="5%" padding-top="10px" padding-bottom="20px"
+                               padding-left="5px" padding-right="5px" vertical-align="middle">
+                        <mj-image padding="0" width="30px" href="https://twitter.com/conversionia"
+                                  src="./assets/twitter.png"/>
+                    </mj-column>
+                    <mj-column width="5%" padding-top="10px" padding-bottom="20px" padding-left="5px"
+                               padding-right="5px"
+                               vertical-align="middle">
+                        <mj-image padding="0" width="30px"
+                                  href="https://www.youtube.com/channel/UCzXW-6vppekXoS6Yi2_tFpg"
+                                  src="./assets/youtube.png"/>
+                    </mj-column>
+                    <mj-column width="5%" padding-top="10px" padding-bottom="20px" padding-left="5px"
+                               padding-right="5px"
+                               vertical-align="middle">
+                        <mj-image padding="0" width="30px" href="https://www.facebook.com/groups/behindthearrow/"
+                                  src="./assets/facebook.png"/>
+                    </mj-column>
+                    <mj-column width="5%" padding-top="10px" padding-bottom="20px" padding-left="5px"
+                               padding-right="5px"
+                               vertical-align="middle">
+                        <mj-image padding="0" width="30px" href="https://www.instagram.com/conversioninteractive/"
+                                  src="./assets/instagram.png"/>
+                    </mj-column>
+                    <mj-column width="5%" padding-top="10px" padding-bottom="20px" padding-left="5px"
+                               padding-right="5px"
+                               vertical-align="middle">
+                        <mj-image padding="0" width="30px" href="https://www.conversionia.com/blog"
+                                  src="./assets/blog.png"/>
+                    </mj-column>
+
+                </mj-group>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

@@ -1,0 +1,102 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text padding="0"/>
+            <mj-class name="blue" color="blue"/>
+            <mj-class name="big" font-size="20px"/>
+            <mj-all font-family="Helvetica"/>
+        </mj-attributes>
+        <mj-style>
+            @media screen and (max-width: 600px) {
+                .divider {
+                    width: 0px !important;
+                }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+
+        <!-- HERO -->
+        <mj-section padding="0px">
+            <mj-column width="600px" >
+                <mj-image
+                        src="https://files.conversionia.com/img/hornady/Hornady-eBlast-Header.jpg"
+                        padding="0px"
+                        width="600px"
+                />
+            </mj-column>
+        </mj-section>
+        <!--top copy-->
+        <mj-section border-left="1px solid #EAE8DB" border-right="1px solid #EAE8DB" padding="0px 30px 0px 20px">
+            <mj-column>
+                <mj-text font-family="Helvetica" color="#68706C" font-size="20px" >
+                    <h1>HORNADY WANTS YOU BACK!</h1>
+                </mj-text>
+                <mj-text font-family="Helvetica" color="#A89C6C" font-size="20px" >
+                    <h2>WE MISS YOU AROUND HERE!</h2>
+                </mj-text>
+                <mj-text font-family="Helvetica" color="#68706C" font-size="18px" letter-spacing="0px" >
+                    <p>Let us support you in continuing to build a strong and stable truck driving career. Take a minute
+                        to check out our outstanding Dedicated and OTR opportunities that are perfect for your skills.
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- Columns -->
+        <mj-section border-left="1px solid #EAE8DB" border-right="1px solid #EAE8DB" padding="0px">
+            <mj-column css-class="column" background-color="#EAE8DB" padding="20px 0" width="294px">
+                <mj-text container-background-color="#68706C" color="#ffffff" font-size="18px" letter-spacing="1px" padding-left="20px">
+                    <p>Dedicated Runs Feature:</p>
+                </mj-text>
+                <mj-text color="#68706C" font-size="20px" font-weight="300">
+                    <ul>
+                        <li>28% revenue of the load</li>
+                        <li>Weekend home time</li>
+                    </ul>
+                </mj-text>
+
+                <mj-text container-background-color="#68706C" color="#ffffff" font-size="18px" letter-spacing="1px" padding-left="20px">
+                    <p>OTR opportunities offer:</p>
+                </mj-text>
+                <mj-text color="#68706C" font-size="20px" font-weight="300">
+                    <ul>
+                        <li>65 CPM average</li>
+                        <li>$1200 weekly min. pay guarantee for experienced flatbed driver*</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+            <mj-column width="10px" background-color="red" css-class="divider"></mj-column>
+            <mj-column css-class="column" background-color="#EAE8DB" padding="20px 0" width="294px">
+                <mj-text container-background-color="#68706C" color="#ffffff" font-size="18px" letter-spacing="1px" padding-left="20px">
+                    <p>Hornady Career Advantages Include:</p>
+                </mj-text>
+                <mj-text color="#68706C" font-size="20px" font-weight="300">
+                    <ul>
+                        <li>Referral bonus program</li>
+                        <li>Outstanding benefits</li>
+                        <li>Excellent freight lanes</li>
+                        <li>Late model equipment</li>
+                        <li>And much more!</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!--Bottom copy-->
+        <mj-section border-bottom="1px solid #EAE8DB" border-right="1px solid #EAE8DB" border-left="1px solid #EAE8DB"  padding-bottom="20px">
+            <mj-column width="600px">
+                <mj-text align="center" font-family="Helvetica" color="#68706C" font-size="16px" font-style="italic">
+                    <p>*subject to change based on business conditions</p>
+                </mj-text>
+                <mj-text font-family="Helvetica" color="#68706C" font-size="18px" align="center">
+                    <p>If your current carrier isn't delivering for you, come back home to Hornady!</p>
+                </mj-text>
+                <mj-text font-family="Helvetica" color="#A89C6C" font-size="24px" align="center" font-weight="bold"
+                         font-style="italic">
+                    <p>Call 800-441-4271 or visit drive4hornady.com to reconnect.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+    </mj-body>
+</mjml>
